@@ -41,7 +41,7 @@ h1 {
     color: #FFA7FB;
     padding-left: 120px;
     font-weight: bold;
-    padding-top: 60px;
+    padding-top: 120px;
 
 }
 
@@ -59,7 +59,7 @@ h2 {
     color: #FFA7FB;
     padding-left: 120px;
     font-weight: bold;
-    padding-top: 60px;
+    padding-top: 120px;
 
 }
 
@@ -69,7 +69,44 @@ h2 {
     padding-top: 70px;
 }
 
+#bold2 {
+    font-weight:bold;
+    font-size: 25px;
+}
+
+#nobold {
+    font-weight: 300;
+}
+
+
 #bump {
     padding-top:90px;
 
+}
+
+#white {
+    color:#D1D1D1
+}
+
+#italic {
+    font-style: ;
+    font-weight: bolder;
+    color:#FFA7FB;
+    font-size: 50px;
+}
+
+footer li {
+    padding: 90px;
+    font-size: 20px;
+    padding-top: 30px;
+    color: #D1D1D1;
+    padding-left:130px;
+}
+
+footer li:hover {
+    color: #FFA7FB;
+}
+
+#big {
+    font-size: 150px;
 }
